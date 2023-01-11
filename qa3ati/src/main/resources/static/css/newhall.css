@@ -1,0 +1,67 @@
+@charset "ISO-8859-1";
+
+body {
+	background-color:#fef3e0;
+}
+.wrapper {
+    width: 100%;
+    max-width: 1080px;
+    padding: 0 10px;
+    margin: 0 auto;
+   
+  }
+  
+  h1.logo {
+    /* background-image: url("Capture.png"); */
+    background-repeat: no-repeat;
+    width: 50px;
+    height:30px;
+    float: left;
+   
+  }
+
+  header nav {
+    float: right;
+     overflow: hidden;
+  position: relative;
+    
+  }
+  
+  header nav h2 {
+    text-indent: -10000px;
+    height: 0;
+    margin: 0;
+  }
+  
+  header nav li {
+    float: left;
+    list-style-type: none;
+    margin: 10px 20px;
+  }
+  
+  header nav li a {
+    text-decoration: none;
+    color: #333;
+    font-size: 18px;
+  }
+  #card{
+    margin-top:80px;
+    margin-left:70px;
+  }
+  
+  #main-banner, #main-banner img {
+    width: 100%;
+    height:500px;
+  }
+  table{
+  	margin-left: 40%;
+	margin-top: 200px;
+	
+	text-align: center;
+	
+	
+  }
+  .newform{
+  
+  }
+ 
